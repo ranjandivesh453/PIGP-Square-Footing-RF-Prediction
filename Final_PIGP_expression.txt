@@ -1,0 +1,1 @@
+RF_PIGP = 2.297 D_f/B  - 1.148 e/B  + 2.518 sin(D_f/B  +  D_f/B× q - 9.864) + 1.277 sin(sin(q)) + 1.21 sin(e/B×q) + 1.21 sin(e/B + q) + 0.1287square(D_f/B) + 0.1287 square(e/B) - 2.3478
